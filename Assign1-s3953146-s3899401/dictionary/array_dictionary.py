@@ -9,7 +9,7 @@ import bisect
 #
 # __author__ = 'Son Hoang Dau'
 # __copyright__ = 'Copyright 2022, RMIT University'
-# ------------------------------------------------------------------------
+# -------------------------------------------------------------------------
 
 class ArrayDictionary(BaseDictionary):
 
